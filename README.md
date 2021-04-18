@@ -1,4 +1,4 @@
 # Hello! I'm Joker 👋
 
-- 🌱 I’m currently learning computer
-- 📫 How to reach me: ...
+#### - 🌱 I’m currently learning computer
+#### - 📫 E-mail: MichaelJacksonJoker1@gmail.com
